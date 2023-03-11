@@ -69,15 +69,15 @@ function validateEmailData(inputFieldName) {
 // Error and Success Functions
 function errorFunction(inputFieldName) {
     inputFieldName.classList.add("error");
-    //     inputFieldName.style.backgroundImage = "url('images/icon-error.svg')";
-    inputFieldName.nextElementSibling.style.display = "block";
+    inputFieldName.style.backgroundImage = "url('images/icon-error.svg')";
+    // inputFieldName.nextElementSibling.style.display = "block";
     inputFieldName.parentElement.nextElementSibling.innerHTML = `${inputFieldName.placeholder} cannot be empty`;
 }
 
 function successFunction(inputFieldName) {
     inputFieldName.classList.remove("error");
-    //     inputFieldName.style.backgroundImage = "none";
-    inputFieldName.nextElementSibling.style.display = "none";
+    inputFieldName.style.backgroundImage = "none";
+    // inputFieldName.nextElementSibling.style.display = "none";
     inputFieldName.parentElement.nextElementSibling.innerHTML = "";
 }
 
