@@ -39,8 +39,10 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Frontend Mentor Solution URL: [Frontend Mentor Solution Page](https://www.frontendmentor.io/solutions/intro-component-with-signup-form-solution-3wEGFy9yX-)
+- Live Site URL: [Live Hosted Website](https://mharvel13.github.io/Intro-Component-With-Signup-Form-Master/)
+- Github Solution URL: [Github Hosted Codes](https://github.com/Mharvel13/Intro-Component-With-Signup-Form-Master)
+
 
 ## My process
 
